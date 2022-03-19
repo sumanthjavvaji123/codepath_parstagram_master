@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/sumanthjavvaji/Downloads/parstagram-pt2-demo.html' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/0cvda1sF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
